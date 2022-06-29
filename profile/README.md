@@ -19,8 +19,8 @@ Selamat datang di Repositori Resmi RSUP Persahabatan dimana Pengembangan Sistem 
     <img src="https://img.shields.io/static/v1?label=Youtube&message=RSUP%20PERSAHABATAN&color=blue&style=for-the-badge&logo=youtube&logoColor=red" />
   </a>
   <a href="https://facebook.com/rsuppersahabatan">
-    <img src="https://img.shields.io/static/v1?label=Facebook&message=RSUP%20PERSAHABATAN&color=blue&style=for-the-badge&logo=facebook&logoColor=blue" />
-  </a>
+    <img src="https://img.shields.io/static/v1?label=Facebook&message=RSUP%20PERSAHABATAN&color=blue&style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>  
   <a href="https://tiktok.com/rsuppersahabatan">
     <img src="https://img.shields.io/static/v1?label=Tiktok&message=RSUP%20PERSAHABATAN&color=blue&style=for-the-badge&logo=tiktok&logoColor=blue" />
   </a>
