@@ -6,6 +6,7 @@ Selamat datang di Repositori Resmi RSUP Persahabatan dimana Pengembangan Sistem 
 - 💻 Mengembangkan Teknologi Sistem Informasi Management Rumah Sakit
 - 👨🏼‍🏫 Melakukan Riset Teknologi untuk Kebutuhan Internal dan Eksternal
 - 🌱 Selalu Belajar Hal Baru!
+- ⚙️ Seluruh Repositori dan Halaman dikelola oleh @mdestafadilah
 
 ## Tetap Terhubung Bersama Kami, untuk Update Terbaru!
 <p align='center'>
