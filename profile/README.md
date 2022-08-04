@@ -14,6 +14,7 @@ Selamat datang di Repositori Resmi RSUP Persahabatan dimana Pengembangan Sistem 
 3. Vercel.app
 4. Render.com
 5. Heroku.com 
+6. Cloudflare.com
 
 ## Tetap Terhubung Bersama Kami, untuk Update Terbaru!
 <p align='center'>
