@@ -8,6 +8,13 @@ Selamat datang di Repositori Resmi RSUP Persahabatan dimana Pengembangan Sistem 
 - 🌱 Selalu Belajar Hal Baru!
 - ⚙️ Seluruh Repositori dan Halaman dikelola oleh [mdestafadilah](https://github.com/mdestafadilah "User who's using Google & DuckDuckGo. Wan'be DevOPS/ Backend Imaginer!")
 
+## Teknologi Cloud
+1. Nutanix Cloud Server (Primary Server)
+2. Netlify.app
+3. Vercel.app
+4. Render.com
+5. Heroku.com 
+
 ## Tetap Terhubung Bersama Kami, untuk Update Terbaru!
 <p align='center'>
   <a href="https://twitter.com/rs_persahabatan">
@@ -29,3 +36,4 @@ Selamat datang di Repositori Resmi RSUP Persahabatan dimana Pengembangan Sistem 
     <img src="https://img.shields.io/static/v1?label=LinkedIn&message=RSUP%20Persahabatan&color=0072b1&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
