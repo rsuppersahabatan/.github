@@ -1,6 +1,6 @@
 # Hayyy... 👋🏼
 
-Selamat datang di Repositori Resmi RSUP Persahabatan dimana Pengembangan Sistem Berbasiskan Teknologi Termutakhir untuk Kemajuan dan Kemudahan dalam Pelayanan Terhadap Masyarakat secara Umum.
+Selamat datang di Repositori Resmi RSUP Persahabatan. Semua Pengembangan Sistem Berbasiskan Teknologi Terkini untuk Kemajuan dan Kemudahan dalam Pelayanan Terhadap Masyarakat secara Umum serta Kesejahteraan Programmer Non-PNS. :) :)
 
 ## Apa Yang Kami Lakukan?
 - 💻 Mengembangkan Teknologi Sistem Informasi Management Rumah Sakit
