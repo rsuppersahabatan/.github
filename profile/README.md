@@ -1,4 +1,4 @@
-# Salam Persahabatan!! 👋🏼
+# Salam Persahabatan 👋🏼
 
 Selamat datang di Repositori Resmi RSUP Persahabatan. Semua Pengembangan Sistem Berbasiskan Teknologi Terkini untuk Kemajuan dan Kemudahan dalam Pelayanan Terhadap Masyarakat secara Umum serta Kesejahteraan Programmer serta Pegawai Non-PNS. 💀
 
@@ -8,7 +8,7 @@ Selamat datang di Repositori Resmi RSUP Persahabatan. Semua Pengembangan Sistem 
 - 🌱 Selalu Belajar Hal Baru!
 - ⚙️ Seluruh Repositori dan Halaman dikelola oleh [mdestafadilah](https://github.com/mdestafadilah "User who's using Google & DuckDuckGo. Wan'be DevOPS/ Backend Imaginer!")
 
-## Tetap Terhubung Bersama Kami, untuk Update Terbaru!
+## Sosial Media!
 <p align='center'>
   <a href="https://twitter.com/rs_persahabatan">
     <img src="https://img.shields.io/static/v1?label=Twitter&message=RSUP%20PERSAHABATAN&color=blue&style=for-the-badge&logo=twitter&logoColor=white" />
