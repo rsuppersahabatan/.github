@@ -11,10 +11,10 @@ Selamat datang di Repositori Resmi RSUP Persahabatan. Semua Pengembangan Sistem 
 ## Sosial Media!
 <p align='center'>
   <a href="https://twitter.com/rs_persahabatan">
-    <img src="https://img.shields.io/static/v1?label=Twitter&color=blue&style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?label=Twitter&message=RSUP%20PERSAHABATAN&color=blue&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://instagram.com/rsuppersahabatan">
-    <img src="https://img.shields.io/static/v1?label=Instagram&color=blue&style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?label=Instagram&message=RSUP%20PERSAHABATAN&color=blue&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://youtube.com/rsuppersahabatan">
     <img src="https://img.shields.io/static/v1?label=Youtube&message=RSUP%20PERSAHABATAN&color=blue&style=for-the-badge&logo=youtube&logoColor=red" />
