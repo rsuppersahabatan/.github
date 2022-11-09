@@ -1,4 +1,4 @@
-# Hayyy... 👋🏼
+# Salam Persahabatan!! 👋🏼
 
 Selamat datang di Repositori Resmi RSUP Persahabatan. Semua Pengembangan Sistem Berbasiskan Teknologi Terkini untuk Kemajuan dan Kemudahan dalam Pelayanan Terhadap Masyarakat secara Umum serta Kesejahteraan Programmer serta Pegawai Non-PNS. 💀
 
