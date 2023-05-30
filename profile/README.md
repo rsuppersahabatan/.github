@@ -6,7 +6,7 @@ Selamat datang di Repositori Resmi RSUP Persahabatan. Semua Pengembangan Sistem 
 - 💻 Mengembangkan Teknologi Sistem Informasi Management Rumah Sakit.
 - 👨🏼‍🏫 Melakukan Riset Teknologi untuk Kebutuhan Internal dan Eksternal Rumah Sakit.
 - 🌱 Selalu Belajar Hal Baru dan Mencari Tau.
-- ⚙️ Seluruh Repositori dan Halaman dikelola oleh [mdestafadilah](https://github.com/mdestafadilah "User who's using Google & DuckDuckGo. Wan'be DevOPS/ Backend Imaginer!")
+- ⚙️ Seluruh Repositori, Halaman dan Server #3 dikelola oleh [mdestafadilah](https://github.com/mdestafadilah "User who's using Google & DuckDuckGo. Wan'be DevOPS/ Backend Imaginer!")
 
 ## Sosial Media!
 <p align='center'>
