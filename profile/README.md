@@ -8,6 +8,35 @@ Selamat datang di Repositori Resmi RSUP Persahabatan. Semua Pengembangan Sistem 
 - 🌱 Selalu Belajar Hal Baru dan Mencari Tau.
 - ⚙️ Seluruh Repositori, Halaman dan Server Ke #3 (persahabatan.co.id) dikelola oleh [mdestafadilah](https://github.com/mdestafadilah "User who's using Google & DuckDuckGo. Wan'be DevOPS/ Backend Imaginer!")
 
+## Teknologi Yang Digunakan
+Berbagai Stack yang digunakan baik untuk kebutuhan Production ataupun Research and Development (RND). Baik kebutuhan Frontend, Backend, Server, Dokumentasi, Time Framing, sampai REST API. Diantaranya,
+### Server
+- Nutanix
+- Centos
+- Ubuntu (Virtual Private Server)
+- aaPanel
+- WebMin Panel
+### Frontend
+- VueJS
+- ReactJS (NextJS, GatsbyJS, React Native)
+- Flutter
+### Backend
+- PHP Codeigniter
+- PHP Native
+- NestJS (NodeJS)
+- Python Native
+- ESC Pos Printing
+- Godex Printing
+- .NET WEB API (C#)
+### Documentation
+- PDF
+- Docusaurus V2
+### Time Framing
+- Helpdesk Application
+  
+### REST API
+- Codeigniter 3 dan 4
+
 ## Sosial Media!
 <p align='center'>
   <a href="https://twitter.com/rs_persahabatan">
