@@ -18,7 +18,8 @@ Berbagai Stack yang digunakan baik untuk kebutuhan Production ataupun Research a
 | Backend | Codeigniter, PHP Native, NestJS (NodeJS), Python Native, ESC Pos Printing, Godex Printing, .NET WEB API (C#)|
 | Documentation | PDF, Docusaurus V2 | 
 | Time Framing | Helpdesk Application, ClickUP |
-| REST API | Codeigniter 3 dan 4 |
+| REST API | Codeigniter 3/4 , WhatsappAPI, TelegramAPI |
+| ThirdParty Service | SiapDok, Sihepi |
 
 ## Sosial Media!
 <p align='center'>
