@@ -13,7 +13,7 @@ Berbagai Stack yang digunakan baik untuk kebutuhan Production ataupun Research a
 
 | Keterangan | Stack |
 | :---: | :---: |
-| Server | Nutanix, CentOS, Ubuntu, aaPanel, Webmin, dan CUPS | 
+| Server | Nutanix, CentOS, Ubuntu, aaPanel, Webmin, CloudFlare dan CUPS | 
 | Fronted | jQuery, VueJS, ReactJS (NextJS, GasbyJS, React Native), Flutter |
 | Backend | Codeigniter, PHP Native, NestJS (NodeJS), Python Native, ESC Pos Printing, Godex Printing, .NET WEB API (C#)|
 | Documentation | PDF, Docusaurus V2 | 
