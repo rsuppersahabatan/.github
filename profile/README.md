@@ -19,7 +19,7 @@ Berbagai Stack yang digunakan baik untuk kebutuhan Production ataupun Research a
 | Documentation | PDF, Docusaurus V2 | 
 | Time Framing | Helpdesk Application, ClickUP |
 | REST API | Codeigniter 3/4 , WhatsappAPI, TelegramAPI |
-| ThirdParty Service | SiapDok, Sihepi, SatuSehat, Unofficial Whatsapp Service |
+| ThirdParty Service | SiapDok, Sihepi, SatuSehat, Unofficial Whatsapp Service, CloudFlare, Netlify, Vercel |
 
 ## Sosial Media!
 <p align='center'>
