@@ -15,7 +15,7 @@ Berbagai Stack yang digunakan baik untuk kebutuhan Production ataupun Research a
 | :---: | :---: |
 | Server | Nutanix, CentOS, Ubuntu, aaPanel, Webmin, CloudFlare dan CUPS | 
 | Fronted | jQuery, VueJS, ReactJS (NextJS, GasbyJS, React Native), Flutter, Grav CMS |
-| Backend | Codeigniter, Laravel, PHP Native, NestJS, Web Socket (NodeJS), Python, ESC Pos, Godex, CUPS, .NET Core (C#), NextJS |
+| Backend | Codeigniter, Laravel, PHP Native, NestJS, NextJS, Web Socket (NodeJS), Python, ESC Pos, Godex, CUPS, .NET Core (C#) |
 | Documentation | PDF, Docusaurus V2 | 
 | Time Framing | Helpdesk Application, ClickUP |
 | REST API | Codeigniter 3/4 , WhatsappAPI, TelegramAPI |
