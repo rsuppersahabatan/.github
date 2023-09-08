@@ -6,7 +6,7 @@ Selamat datang di Repositori Resmi RSUP Persahabatan. Semua Pengembangan Sistem 
 - 💻 Mengembangkan Teknologi Sistem Informasi Management Rumah Sakit.
 - 👨🏼‍🏫 Melakukan Riset Teknologi untuk Kebutuhan Internal dan Eksternal Rumah Sakit.
 - 🌱 Selalu Belajar Hal Baru dan Mencari Tau.
-- ⚙️ Seluruh Repositori, Halaman dan Server Ke #3 (persahabatan.co.id) dikelola oleh [mdestafadilah](https://github.com/mdestafadilah "User who's using Google & DuckDuckGo. Wan'be DevOPS/ Backend Imaginer!")
+- ⚙️ Seluruh Repositori, Halaman dan Server Ke #3 (persahabatan.co.id) dikelola oleh [mdestafadilah](https://github.com/mdestafadilah "User who's using Google & DuckDuckGo. Wan'be Rich as Software Engginer")
 
 ## Teknologi Yang Digunakan
 Berbagai Stack yang digunakan baik untuk kebutuhan Production ataupun Research and Development (RND). Baik kebutuhan Frontend, Backend, Server, Dokumentasi, Time Framing, sampai REST API. Diantaranya:
