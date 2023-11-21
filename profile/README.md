@@ -6,10 +6,10 @@ Selamat datang di Repositori Resmi RSUP Persahabatan. Semua Pengembangan Sistem 
 - 💻 Mengembangkan Teknologi Sistem Informasi Management Rumah Sakit.
 - 👨🏼‍🏫 Melakukan Riset Teknologi untuk Kebutuhan Internal dan Eksternal Rumah Sakit.
 - 🌱 Selalu Belajar Hal Baru dan Mencari Tau.
-- ⚙️ Seluruh Repositori, Halaman, dan Server Ke #3 (persahabatan.co.id), Server ke #4 (dev.persahabatan.co.id) dikonfigurasi [mdestafadilah](https://github.com/mdestafadilah "Intuiting Extrovert with B blood type. Wan'be Rich as Software Engginer")
+- ⚙️ Seluruh Repositori, Halaman, dan Server Ke #3 (persahabatan.co.id), Server ke #4 (dev.persahabatan.co.id) dikonfigurasi dan dikelola saat ini oleh [mdestafadilah](https://github.com/mdestafadilah "Intuiting Extrovert with B blood type. Wan'be Rich as Software Engginer")
 
 ## Teknologi Yang Digunakan
-Berbagai Stack yang digunakan baik untuk kebutuhan Production ataupun Research and Development (RND). Baik kebutuhan Frontend, Backend, Server, Dokumentasi, Time Framing, sampai REST API. Diantaranya:
+Berbagai Stack yang digunakan baik untuk kebutuhan Production ataupun Research and Development (rNd). Baik kebutuhan Frontend, Backend, Server, Dokumentasi, Time Framing, sampai REST API. Diantaranya:
 
 | Keterangan | Stack |
 | :---: | :---: |
@@ -42,6 +42,9 @@ Berbagai Stack yang digunakan baik untuk kebutuhan Production ataupun Research a
   </a>
   <a href="https://www.linkedin.com/company/rsup-persahabatan/">
     <img src="https://img.shields.io/static/v1?label=LinkedIn&message=RSUP%20Persahabatan&color=0072b1&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+    <a href="https://www.github.com/rsuppersahabatan/">
+    <img src="https://img.shields.io/static/v1?label=Github&message=RSUP%20Persahabatan&color=0088c1&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
