@@ -44,7 +44,7 @@ Berbagai Stack yang digunakan baik untuk kebutuhan Production ataupun Research a
     <img src="https://img.shields.io/static/v1?label=LinkedIn&message=RSUP%20Persahabatan&color=0072b1&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
     <a href="https://www.github.com/rsuppersahabatan/">
-    <img src="https://img.shields.io/static/v1?label=Github&message=RSUP%20Persahabatan&color=0088c1&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?label=Github&message=RSUP%20Persahabatan&color=0088c1&style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
