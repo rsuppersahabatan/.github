@@ -6,7 +6,7 @@ Selamat datang di Repositori Resmi RSUP Persahabatan. Semua Pengembangan Sistem 
 - 💻 Mengembangkan Teknologi Sistem Informasi Management Rumah Sakit.
 - 👨🏼‍🏫 Melakukan Riset Teknologi untuk Kebutuhan Internal dan Eksternal Rumah Sakit.
 - 🌱 Selalu Belajar Hal Baru dan Mencari Tau.
-- ⚙️ Seluruh Repositori, Halaman, dan Server Ke #3 (persahabatan.co.id), Server ke #4 (dev.persahabatan.co.id) dikonfigurasi dan dikelola saat ini oleh [mdestafadilah](https://github.com/mdestafadilah "Intuiting Extrovert with B blood type. Wan'be Rich as Software Engginer")
+- ⚙️ Seluruh Repositori, Halaman, dan Server Ke #3 [Cloud Server](https://persahabatan.co.id), Server ke #4 [Local Server](https://dev.persahabatan.co.id) dikonfigurasi dan dikelola saat ini oleh [mdestafadilah](https://github.com/mdestafadilah "Intuiting Extrovert with B blood type. Wan'be Rich as Software Engginer")
 
 ## Teknologi Yang Digunakan
 Berbagai Stack yang digunakan baik untuk kebutuhan Production ataupun Research and Development (rNd). Baik kebutuhan Frontend, Backend, Server, Dokumentasi, Time Framing, sampai REST API. Diantaranya:
@@ -21,7 +21,7 @@ Berbagai Stack yang digunakan baik untuk kebutuhan Production ataupun Research a
 | Documentation | PDF, Docusaurus V2 | 
 | Time Framing | Helpdesk Application, ClickUP |
 | REST API | Codeigniter 3/4 , WhatsappAPI, TelegramAPI |
-| ThirdParty Service | SiapDok, Sihepi, SatuSehat, Unofficial Whatsapp Service, Telegram BOT, CloudFlare, Netlify, Vercel |
+| ThirdParty Service | SiapDok, Sihepi, SatuSehat, Unofficial Whatsapp Service, Telegram BOT, CloudFlare, Netlify, Vercel, Figma, Zoom |
 
 ## Sosial Media!
 <p align='center'>
