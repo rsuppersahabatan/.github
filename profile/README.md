@@ -22,7 +22,9 @@ Berbagai Stack yang digunakan baik untuk kebutuhan Production ataupun Research a
 | CI/ CD Service | Netlify, Vercel, Github Action | 
 | Time Framing | Helpdesk Application, ClickUP |
 | REST API | Codeigniter 3/4 , WhatsappAPI, TelegramAPI |
-| ThirdParty Service | SiapDok, Sihepi, SatuSehat, Unofficial Whatsapp Service, Telegram BOT, CloudFlare, Figma, Zoom, Uptime-Kuma, Upptime, Zenziva SMS |
+| Whatsapp Service (Unofficial) | [Versi 1](https://go.topidesta.my.id/v1), [Versi 2](https://go.topidesta.my.id/v2), [Versi 3](https://go.topidesta.my.id/v3), [Versi 4](https://go.topidesta.my.id/v4) |
+| Operating System | Windows 10, Ubuntu, MacOS | 
+| ThirdParty Service | SiapDok, Sihepi, SatuSehat,Telegram BOT, CloudFlare, Figma, Zoom, Uptime-Kuma, Upptime, Zenziva SMS |
 
 ## Sosial Media!
 <p align='center'>
