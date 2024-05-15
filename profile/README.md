@@ -26,6 +26,14 @@ Berbagai Stack yang digunakan baik untuk kebutuhan Production ataupun Research a
 | Operating System | Windows 10, Ubuntu, MacOS | 
 | ThirdParty Service | SiapDok, Sihepi, SatuSehat,Telegram BOT, CloudFlare, Figma, Zoom, Uptime-Kuma, Upptime, Zenziva SMS |
 
+## Aplikasi Public
+Berbagai Aplikasi yang tersedia untuk Masyarakat umum guna menunjang Pelayanan di RS Persahabatan.
+
+| Nama Aplikasi | Keterangan | Url |
+| :---: | :---: | :---: |
+| Pendaftaran Online | Landing Page Pendaftaran Online RSUP Persahabatan | 🚀 [Link](https://pendaftaran.rsuppersahabatan.co.id) 🚀 | 
+| Survey Online | Landing Page Survery Online RSUP Persahabatan | 🚀 [Link](https://survey.rsuppersahabatan.co.id/) 🚀 |
+
 ## Sosial Media!
 <p align='center'>
   <a href="https://twitter.com/rs_persahabatan">
