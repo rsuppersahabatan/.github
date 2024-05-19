@@ -31,8 +31,8 @@ Berbagai Aplikasi yang tersedia untuk Masyarakat umum guna menunjang Pelayanan d
 
 | Nama Aplikasi | Keterangan | Url |
 | :---: | :---: | :---: |
-| Pendaftaran Online | Landing Page Pendaftaran Online RSUP Persahabatan | 🚀 [https://pendaftaran.rsuppersahabatan.co.id](https://pendaftaran.rsuppersahabatan.co.id) 🚀 | 
-| Survey Online | Landing Page Survery Online RSUP Persahabatan | 🚀 [https://survey.rsuppersahabatan.co.id](https://survey.rsuppersahabatan.co.id) 🚀 |
+| Pendaftaran Online | Landing Page Pendaftaran Online RSUP Persahabatan | [🚀](https://pendaftaran.rsuppersahabatan.co.id) | 
+| Survey Online | Landing Page Survery Online RSUP Persahabatan | [🚀](https://survey.rsuppersahabatan.co.id) |
 
 ## Sosial Media!
 <p align='center'>
