@@ -1,11 +1,11 @@
 # 👋🏼 Salam Persahabatan 👋🏼
 
-Selamat datang di Repositori Resmi RSUP Persahabatan. Semua Pengembangan Sistem Berbasiskan Teknologi Terkini untuk Kemajuan dan Kemudahan dalam Pelayanan Terhadap Masyarakat secara Umum serta Kesejahteraan Programmer dan IT SIMRS. 💀
+Selamat datang di Repositori Resmi RS Persahabatan. Semua Pengembangan Sistem Berbasiskan Teknologi Terkini untuk Kemajuan dan Kemudahan dalam Pelayanan Terhadap Masyarakat secara Umum serta Kesejahteraan Programmer dan IT SIMRS. 💀
 
 ## Apa Yang Kami Lakukan?
 - 💻 Mengembangkan Teknologi Sistem Informasi Management Rumah Sakit.
 - 👨🏼‍🏫 Melakukan Riset Teknologi untuk Kebutuhan Internal dan Eksternal Rumah Sakit.
-- 🌱 Selalu Belajar Hal Baru dan Mencari Tau.
+- 🌱 Selalu Belajar Hal Baru dan Mencari Tau dan Bukan Sok Tau.
 - ⚙️ Seluruh Repositori, Halaman, User Account ( [@rspersahabatan](https://github.com/rspersahabatan), [@simrspersahabatan](https://github.com/simrspersahabatan) ) dan Server Ke #3 [Cloud Server](https://persahabatan.co.id), Server ke #4 [Local Server](https://dev.persahabatan.co.id), Server ke #5 [Website](https://rspersahabatan.co.id) sementara dikonfigurasi dan dikelola oleh [mdestafadilah](https://github.com/mdestafadilah "Intuiting Extrovert with B blood type. Wan'be Rich as Software Engginer")
 
 ## Teknologi Yang Digunakan
@@ -31,7 +31,7 @@ Berbagai Aplikasi yang tersedia untuk Masyarakat umum guna menunjang Pelayanan d
 
 | Nama Aplikasi | Keterangan | Url |
 | :---: | :---: | :---: |
-| Pendaftaran Online | Landing Page Pendaftaran Online RS Persahabatan | [Link](https://pendaftaran.rsuppersahabatan.co.id) | 
+| Pendaftaran Online | Landing Page Pendaftaran Online RS Persahabatan | [Link](https://pendaftaran.rspersahabatan.co.id) | 
 | Survey Online | Landing Page Survery Online RS Persahabatan | [Link](https://survey.rsuppersahabatan.co.id) |
 | Lowongan Online | Lowongan Pekerjaan di RS Persahabatan | [Link](https://lowongan.rspersahabatan.co.id) |
 | Donor Darah | Pendaftaran Donor Darah di RS Persahabatan | [Link](https://utdrs.rspersahabatan.co.id) | 
