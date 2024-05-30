@@ -31,8 +31,11 @@ Berbagai Aplikasi yang tersedia untuk Masyarakat umum guna menunjang Pelayanan d
 
 | Nama Aplikasi | Keterangan | Url |
 | :---: | :---: | :---: |
-| Pendaftaran Online | Landing Page Pendaftaran Online RSUP Persahabatan | [🚀](https://pendaftaran.rsuppersahabatan.co.id) | 
-| Survey Online | Landing Page Survery Online RSUP Persahabatan | [🚀](https://survey.rsuppersahabatan.co.id) |
+| Pendaftaran Online | Landing Page Pendaftaran Online RS Persahabatan | [Link](https://pendaftaran.rsuppersahabatan.co.id) | 
+| Survey Online | Landing Page Survery Online RS Persahabatan | [Link](https://survey.rsuppersahabatan.co.id) |
+| Lowongan Online | Lowongan Pekerjaan di RS Persahabatan | [Link](https://lowongan.rspersahabatan.co.id) |
+| Donor Darah | Pendaftaran Donor Darah di RS Persahabatan | [Link](https://utdrs.rspersahabatan.co.id) | 
+| Pencarian Dokter | Pencarian Dokter Spesialis di RS Persahabatan | [Link](https://dokter.rspersahabatan.co.id) |
 
 ## Sosial Media!
 <p align='center'>
