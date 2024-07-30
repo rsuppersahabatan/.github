@@ -24,7 +24,7 @@ Berbagai Stack yang digunakan baik untuk kebutuhan Production ataupun Research a
 | REST API | Codeigniter 3 & 4, FastAPI, WhatsappAPI, TelegramAPI |
 | Whatsapp Service (Unofficial) | [Versi 1](https://go.topidesta.my.id/v1), [Versi 1.2](http://go.topidesta.my.id/v1-2), [Versi 2](https://go.topidesta.my.id/v2), [Versi 3](https://go.topidesta.my.id/v3), [Versi 4](https://go.topidesta.my.id/v4), [Versi 5](http://go.topidesta.my.id/v5), [Versi 6](http://go.topidesta.my.id/v6), [Versi 7](http://go.topidesta.my.id/v7)
 | Operating System | Windows 10, Ubuntu, MacOS | 
-| ThirdParty Service | Sihepi, SatuSehat,Telegram BOT, CloudFlare, Figma, Zoom, Uptime-Kuma, Upptime, Zenziva SMS, Umami.JS Analytic |
+| ThirdParty Service | Sihepi, SatuSehat,Telegram BOT, CloudFlare, Figma, Zoom, Uptime-Kuma, Upptime, Zenziva SMS, Umami.JS Analytic, [pyHanko](http://go.topidesta.my.id/stamp-pdf) esign and Stamp PDF |
 
 ## Aplikasi Publik
 Berbagai Aplikasi yang tersedia untuk Masyarakat umum guna menunjang Pelayanan di RS Persahabatan.
