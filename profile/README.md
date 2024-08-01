@@ -36,7 +36,7 @@ Berbagai Aplikasi yang tersedia untuk Masyarakat umum guna menunjang Pelayanan d
 | Lowongan Online | Lowongan Pekerjaan di RS Persahabatan | [Link](https://lowongan.rspersahabatan.co.id) |
 | Donor Darah | Pendaftaran Donor Darah di RS Persahabatan | [Link](https://utdrs.rspersahabatan.co.id) | 
 | Pencarian Dokter | Pencarian Dokter Spesialis di RS Persahabatan | [Link](https://dokter.rspersahabatan.co.id) |
-| Uptime Whatsapp | Monitoring Unofficial Whatsapp Service | [Link](https://uptime.rspersahabatan.co.id/status/wa) |
+| Uptime Whatsapp | Monitoring Unofficial Whatsapp Service | [Link](https://uptime.persahabatan.co.id/status/wa) |
 | Umami.js Analytics | Alternative google analytics! | [Link](https://umami.persahabatan.co.id) |
 
 ## Sosial Media!
