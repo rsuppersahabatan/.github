@@ -26,18 +26,6 @@ Berbagai Stack yang digunakan baik untuk kebutuhan Production ataupun Research a
 | Operating System | Windows 10, Ubuntu, MacOS | 
 | ThirdParty Service | Sihepi, SatuSehat, Telegram BOT, CloudFlare, Figma, Zoom, [Uptime-Kuma](http://go.topidesta.my.id/kuma), Upptime, Zenziva SMS, [Umami.JS Analytic](https://umami.is/), [pyHanko esign and Stamp PDF](http://go.topidesta.my.id/stamp-pdf), [typeBot](http://go.topidesta.my.id/typebot) |
 
-## Aplikasi Publik
-Berbagai Aplikasi yang tersedia untuk Masyarakat umum guna menunjang Pelayanan di RS Persahabatan.
-
-| Nama Aplikasi | Keterangan | Url |
-| :---: | :---: | :---: |
-| Pendaftaran Online | Landing Page Pendaftaran Online RS Persahabatan | [Link](https://pendaftaran.rspersahabatan.co.id) | 
-| Survey Online | Landing Page Survery Online RS Persahabatan | [Link](https://survey.rsuppersahabatan.co.id) |
-| Lowongan Online | Lowongan Pekerjaan di RS Persahabatan | [Link](https://lowongan.rspersahabatan.co.id) |
-| Donor Darah | Pendaftaran Donor Darah di RS Persahabatan | [Link](https://utdrs.rspersahabatan.co.id) | 
-| Pencarian Dokter | Pencarian Dokter Spesialis di RS Persahabatan | [Link](https://dokter.rspersahabatan.co.id) |
-| Uptime Whatsapp | Monitoring Unofficial Whatsapp Service | [Link](https://uptime.persahabatan.co.id/status/wa) |
-| Umami.js Analytics | Alternative google analytics! | [Link](https://umami.persahabatan.co.id) |
 
 ## Sosial Media!
 <p align='center'>
