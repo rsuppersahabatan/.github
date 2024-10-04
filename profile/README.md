@@ -22,7 +22,7 @@ Berbagai Stack yang digunakan baik untuk kebutuhan Production ataupun Research a
 | CI/ CD Service | Netlify, Vercel, Github Action | 
 | Time Framing | Helpdesk Application, ClickUP |
 | REST API | Codeigniter 3 & 4, FastAPI, WhatsappAPI, TelegramAPI |
-| Whatsapp Service (Unofficial) | [Versi 1](https://go.topidesta.my.id/v1), [Versi 1.2](http://go.topidesta.my.id/v1-2), [Versi 2](https://go.topidesta.my.id/v2), [Versi 3](https://go.topidesta.my.id/v3), [Versi 4](https://go.topidesta.my.id/v4), [Versi 5](http://go.topidesta.my.id/v5), [Versi 6](http://go.topidesta.my.id/v6), [Versi 7](http://go.topidesta.my.id/v7), [Versi 8](http://go.topidesta.my.id/v8), [Versi 9](http://go.topidesta.my.id/tiket-wa), [Versi 10](http://go.topidesta.my.id/v10)
+| Whatsapp Service (Unofficial) | [Versi 1](https://go.topidesta.my.id/v1), [Versi 1.2](http://go.topidesta.my.id/v1-2), [Versi 2](https://go.topidesta.my.id/v2), [Versi 3](https://go.topidesta.my.id/v3), [Versi 4](https://go.topidesta.my.id/v4),[Versi 4.2](http://go.topidesta.my.id/v4-2), [Versi 5](http://go.topidesta.my.id/v5), [Versi 6](http://go.topidesta.my.id/v6), [Versi 7](http://go.topidesta.my.id/v7), [Versi 8](http://go.topidesta.my.id/v8), [Versi 9](http://go.topidesta.my.id/tiket-wa), [Versi 10](http://go.topidesta.my.id/v10)
 | Operating System | Windows 10, Ubuntu, MacOS | 
 | ThirdParty Service | Sihepi, SatuSehat, Telegram BOT, CloudFlare, Figma, Zoom, [Uptime-Kuma](http://go.topidesta.my.id/kuma), Upptime, Zenziva SMS, [Umami.JS Analytic](https://umami.is/), [pyHanko esign and Stamp PDF](http://go.topidesta.my.id/stamp-pdf), [typeBot](http://go.topidesta.my.id/typebot) |
 
