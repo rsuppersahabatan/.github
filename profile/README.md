@@ -26,7 +26,8 @@ Berbagai Stack yang digunakan baik untuk kebutuhan Production ataupun Research a
 | Operating System | Windows 10, Ubuntu, MacOS | 
 | PaaS | [aaPanel](https://github.com/rsuppersahabatan/aaPanel), [dokploy](https://github.com/rsuppersahabatan/dokploy), [cookpit](https://github.com/rsuppersahabatan/cockpit), [SSO](https://github.com/rsuppersahabatan/keycloak)|
 | ThirdParty Service | [Sihepi](https://sihepi.kemkes.go.id/), [SatuSehat](https://satusehat.kemkes.go.id/platform/docs/id/playbook/), Telegram BOT, CloudFlare, Figma, Zoom, [Uptime-Kuma](http://go.topidesta.my.id/kuma), Upptime, Zenziva SMS, [Umami.JS Analytic](https://github.com/simrspersahabatan/umami),[Ackee Analitic](http://go.topidesta.my.id/ackee), [pyHanko esign and Stamp PDF](http://go.topidesta.my.id/stamp-pdf), [ntfy](https://github.com/rsuppersahabatan/ntfy), [nG FireWall](https://github.com/rsuppersahabatan/nG-SetEnvIf), [sLims](https://github.com/rsuppersahabatan/erepository.rspersahabatan.co.id), Canva, [TypeBot](http://go.topidesta.my.id/bot-1), [BuilderBot](http://go.topidesta.my.id/bot-2), [iCal](http://go.topidesta.my.id/icalendars), [E-Sign BSRE Kemkes](https://github.com/rsuppersahabatan/E-Sign-BSrE-PHP) |
-| WAF | | 
+| WAF Tools | [aaWAF](https://github.com/hallobayi/aaWAF), [uuWAF](https://github.com/hallobayi/uuWAF), [bunkerWAF](https://github.com/hallobayi/bunkerweb), [SafeLineWAF](https://github.com/hallobayi/SafeLine), [WfW00f](https://github.com/hallobayi/wafw00f) |
+| H4cK1nG 1NF0| [Awesome-hacking](https://github.com/rsuppersahabatan/Awesome-Hacking) |
 
 
 ## Sosial Media!
