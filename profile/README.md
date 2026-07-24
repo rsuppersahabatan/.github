@@ -16,7 +16,7 @@ Berbagai Stack yang digunakan baik untuk kebutuhan Production ataupun Research a
 | Server | Nutanix, ProxMox, CentOS, Ubuntu, CloudFlare dan CUPS | 
 | Fronted | jQuery, VueJS, ReactJS (NextJS, GasbyJS, React Native), Flutter, Grav CMS, Netlify CMS|
 | Backend | PHP, ExpressJS, Web Socket (NodeJS), Python, ESC Pos, Godex, CUPS, .NET Core (C#) |
-| Databases | MySQL, MonggoDB, Redis, Firebase |
+| Databases | MySQL, MonggoDB, Redis, Firebase, [Database Management](https://github.com/rsuppersahabatan/databasement) |
 | Fullstack | Codeigniter, Laravel, NextJS, BVHVR |
 | Documentation | PDF, Docusaurus | 
 | CI/ CD Service | Netlify, Vercel, Github Action | 
